@@ -1,2 +1,2 @@
-# Matches the H1 of index.md so the theme shows no extra repo-name header.
+# Used for the <title> tag by _layouts/default.html.
 title: "Privacy Policy — NHL: Widget & Games"
